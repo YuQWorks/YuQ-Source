@@ -1,3 +1,3 @@
 
-rootProject.name = "YuQ-ArtQQ-Reborn"
+rootProject.name = "YuQ-Source"
 
