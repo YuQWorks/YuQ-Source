@@ -1,3 +1,5 @@
 
-rootProject.name = "YuQ-Source"
+rootProject.name = "SourceProject"
 
+include("Source")
+include("YuQ-Source")
